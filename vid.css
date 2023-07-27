@@ -1,0 +1,22 @@
+.text-center{
+    text-align: center;
+}
+.bg{
+    background-color: rgb(0, 0, 0);
+    border-radius: 5%;
+}
+.margin{
+    margin:auto;
+}
+.width{
+    max-width: 20vw;
+}
+.flex{
+    display: flex;
+}
+.col{
+    flex-direction: column;
+}
+.items{
+    align-items: center;
+}
