@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Roboto:ital,wght@0,700;1,900&display=swap');
+html, body{
+    text-decoration-color: white;
+    height : 100%;
+    width : 100%;
+    background-color: rgb(226, 173, 50);
+    font-family: 'Dancing Script', cursive;
+}
+.button{
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid #78b0dc;
+    border-radius: 9px; 
+    cursor: pointer;
+}
+.row{
+    margin: 8px 0;}
+.row input{
+    font-size: 13px;
+    margin: 0;
+    padding: 10px 40px;
+    border: 2px solid black;
+    border-radius: 5px;
+
+}
